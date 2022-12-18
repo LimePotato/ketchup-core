@@ -15,5 +15,4 @@ dedication to be an overt act of relinquishment in perpetuity of all
 present and future rights to this software under copyright law.
 
  See [Unlicense](./LICENSE.md).
-
-Mods created with this template are not automatically licensed under the CC0, and are not required to give any kind of credit back to QuiltMC for this template.
+ ![pd-icon](https://user-images.githubusercontent.com/9313366/208296032-a39e4144-ab3d-4abc-af51-074d2ac678fe.png)

@@ -15,7 +15,7 @@
 				"issues": "https://github.com/LimePotato/ketchup-api/issues",
 				"sources": "https://github.com/LimePotato/ketchup-api"
 			},
-			"icon": "assets/example_mod/icon.png"
+			"icon": "assets/example_mod/icon.zpng"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
